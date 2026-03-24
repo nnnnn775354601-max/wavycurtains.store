@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#fbf7ef"/>
+  <circle cx="256" cy="256" r="188" fill="#b28a4a" opacity="0.14"/>
+  <circle cx="256" cy="256" r="166" fill="none" stroke="#b28a4a" stroke-width="18"/>
+  <text x="256" y="292" text-anchor="middle" font-family="Arial, Tahoma, sans-serif" font-size="170" font-weight="700" fill="#2b2b2b">وو</text>
+</svg>
