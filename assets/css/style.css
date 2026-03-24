@@ -1329,3 +1329,23 @@
   height: 100%;
   border: 0;
 }
+
+
+.hero-media img,
+.hero-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.hero-media {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+.hero-visual,
+.hero-content {
+  min-width: 0;
+}
